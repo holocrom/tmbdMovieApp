@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tmbdMovieApp</string>
+    <string name="favorites">Ir a favoritos</string>
+    <string name="back">fondo</string>
+    <string name="home">Ir a home</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="error">Error</string>
+    <string name="searchButton">Buscar por nombre</string>
+    <string name="noResultsFound">No se encontraron resultados</string>
+    <string name="writeMovieName">Escribe el título</string>
+    <string name="addMovieName">Introduce el título a buscar</string>
+    <string name="toFind">Buscar</string>
+    <string name="goBack">Retroceder</string>
+    <string name="year">"Año "</string>
+    <string name="imageMovie">Imagen de la película</string>
+</resources>
